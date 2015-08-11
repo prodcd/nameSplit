@@ -25,7 +25,6 @@
 隞 AO 
 奥敦 AO DUN
 突厥阿史那 ASHINA 
-
 巼 ba
 灞 ba
 捌 BA 
@@ -153,7 +152,6 @@
 伯昏 BO
 博尔济吉特 BO ER JI JI TE
 博尔济锦 BO ER JI JIN
-
 孛尔只斤 BO ER ZHI JIN 孛儿只斤 BOERZHIJIN
 梅 BOEY
 孛术鲁 BOZHULU 
@@ -167,7 +165,6 @@
 补 BU
 步禄孤 BU
 步六孤 BU 
-
 材 CAI
 蔡林 CAI
 才旦 CAI
@@ -354,7 +351,6 @@
 措 CUO
 厝 CUO
 错木 CUOMU 
-
 达奚 DA
 达瓦买提 DA
 大荔 DA
@@ -512,7 +508,6 @@
 多兰葛 DUO 
 朵豁 DUO
 剁 DUO 
-
 蛾 E
 鹅 E
 兹 E 娥 E
@@ -530,7 +525,6 @@
 洱 ER
 穣 ER
 尔朱 ERZHU 
-
 发 FA
 阀 FA
 法 FA
@@ -632,7 +626,6 @@
 芙 FU
 富察 FU CHA 
 福图 FU TU 
-
 [ 本帖最后由 奕辰 于 2006-3-16 10:30 编辑 ]
 2006-3-15 23:07 奕辰
 鎵 ga
@@ -848,7 +841,6 @@
 郭王 GUO
 郭李 GUO LI
 郭 GUOKUN 
-
 簡 HA 哈 HA
 哈什纳 HA
 铪 ha
@@ -1009,7 +1001,6 @@
 获 HUO
 斛瑟罗 HUSELUO
 鹘提奚补野 HUTIXIBUYE 
-
 婧 jeng
 伋 Ji
 己 JI
@@ -1258,7 +1249,6 @@
 竣 JUN
 均 JUN
 巨毋 JUWU 
-
 咖 KA
 喀尔喀 KA 卡 KA
 开 KAI
@@ -1542,7 +1532,6 @@
 绿小豆 LV
 率 LV 
 闾丘 LV QIU 
-
 马 MA
 麻 MA
 马帅 MA
@@ -1664,7 +1653,6 @@
 母邱 MU
 牧野 MU
 慕容 MU RONG 
-
 那 NA
 纳 NA 那金 NA
 那拉 NA LA
@@ -1747,7 +1735,6 @@
 欧文 OU
 歐 OU
 歐陽 OU YANG 
-
 爬 PA
 怕 PA
 拍 PAI
@@ -1812,7 +1799,6 @@
 仆固 PU
 扑 PU
 濮阳 PU YANG 
-
 欧阳 QI
 祁 QI
 戚 QI
@@ -1958,7 +1944,6 @@
 群 QUN
 瞿昙 QUTAN
 阕 QVE 
-
 冉 RAN
 燃 RAN
 穰 RANG
@@ -1998,7 +1983,6 @@
 若 RUO
 若干 RUO
 若口引 RUO 
-
 萨蛮 SA
 恺撒 SA 撒 SA
 洒 SA
@@ -2055,7 +2039,6 @@
 邵 SHAO
 绍 SHAO
 哨 SHAO 
-
 他他拉 TA
 沓 ta
 她 TA
@@ -2173,7 +2156,6 @@
 拓 TUO
 脱 TUO
 拓跋 TUO BA 
-
 瓦 WA
 弯 WAN 湾 WAN
 晚 WAN
@@ -2293,7 +2275,6 @@
 乌雅 WU YA
 兀颜 WU YAN
 兀良哈 WULIANGHA 
-
 小泉 X
 喜塔喇 XI 喜塔剌 XI
 西伯 XI
@@ -2598,7 +2579,6 @@
 耶律 YE LV
 叶赫那拉 YE HE NA LA
 叶赫纳拉 YE HE NA LA
-
 叶赫那兰 YE HE NA LAN 葉赫納拉 YHNL
 刈 yi
 伊林 YI
@@ -2801,7 +2781,6 @@
 云 YUN(繁体字为雲) 
 吾丘 YUQIU
 
-
 杂 ZA
 再 ZAI
 载 ZAI
@@ -2960,7 +2939,6 @@
 仲长 ZHONG CHANG
 钟离 ZHONG LI
 仲孙 ZHONG SUN
-
 中行 ZHONGHANG
 皱 ZHOU
 鄒 ZHOU
@@ -3068,8 +3046,6 @@
 左伯 ZUO
 左公 ZUO 
 左丘 ZUO QIU
-
-
 各 GE 
 姚晏 YAO 
 辟 BI 
@@ -3082,4 +3058,3 @@
 奏 ZOU 
 串 CHUAN 
 财 CAI
-
